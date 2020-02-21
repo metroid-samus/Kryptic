@@ -17,6 +17,7 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     python_requires=('>=3.6.0'),
+    license='MIT',
     install_requires=requirements,
     packages=find_packages()#packages
 )
